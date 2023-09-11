@@ -1,0 +1,49 @@
+.navbar {
+    height: 75px;
+    /* background: radial-gradient(black, transparent); */
+    background: rebeccapurple;
+    margin: 15px 75px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    /* justify-content: ; */
+
+}
+
+.navbar a {
+    /* font-size: 2.5rem;
+    color: black;
+    padding-left: 30px; */
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-top: 10px;
+
+}
+
+.navbar img {
+    width: 50px;
+    /* padding-left: 20px; */
+    padding: 10px;
+}
+.fastsection{
+    height: 500px;
+    margin: 0px 133px;
+    border: 3px solid rebeccapurple;
+    border-radius: 5px;
+}
+.fastsection h1{
+    border: 1px solid;
+    margin: 30px;
+    font-size: 2.5rem;
+    background: rebeccapurple;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.content{
+    border: 1px solid rebeccapurple;
+    border-radius: 10px;
+    height: 300px;
+    margin: 0px 50px;
+    padding: 15px;
+}

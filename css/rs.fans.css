@@ -1,0 +1,168 @@
+@media only screen and (max-width: 1065px) {
+    .text-info {
+        font-size: 14px;
+    }
+
+    .main-div {
+        height: 260px;
+    }
+}
+
+@media only screen and (max-width:818px) {
+    .main-div {
+        height: 350px;
+    }
+
+    .sub-div {
+        width: 290px;
+        margin-left: 100px;
+    }
+
+    .information {
+        margin-left: -50px;
+    }
+
+    #id1 {
+        position: absolute;
+        top: 315px;
+        left: 89px;
+        width: 440px;
+    }
+
+    .text-info {
+        margin: -5px;
+    }
+
+    .sub-div {
+        margin-top: 1px;
+    }
+
+    #id2 {
+        position: absolute;
+        top: 735px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id3 {
+        position: absolute;
+        top: 1090px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id4 {
+        position: absolute;
+        top: 1470px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id5 {
+        position: absolute;
+        top: 1915px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id6 {
+        position: absolute;
+        top: 2285px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id7 {
+        position: absolute;
+        top: 2640px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id8 {
+        position: absolute;
+        top: 3105px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id9 {
+        position: absolute;
+        top: 3475px;
+        left: 89px;
+        width: 440px;
+    }
+
+    #id10 {
+        position: absolute;
+        top: 3830px;
+        left: 89px;
+        width: 440px;
+    }
+}
+
+@media only screen and (max-width:482px) {
+    .navbar {
+        margin: 15px -8px;
+        border-radius: 0px;
+    }
+
+    .sub-div {
+        margin-left: 2px;
+    }
+
+    .text-info {
+        padding: 0 0px;
+        font-size: 13px;
+        width: 363px;
+    }
+
+    #id1 {
+        width: 318px;
+    }
+
+    #id2 {
+        width: 318px;
+    }
+
+    #id3 {
+        width: 318px;
+    }
+
+    #id4 {
+        width: 318px;
+    }
+
+    #id5 {
+        width: 318px;
+    }
+
+    #id6 {
+        width: 318px;
+    }
+
+    #id7 {
+        width: 318px;
+    }
+
+    #id8 {
+        width: 318px;
+    }
+
+    #id9 {
+        width: 318px;
+    }
+
+    #id10 {
+        width: 318px;
+    }
+}
+
+@media only screen and (max-width:395px) {
+    .text-info {
+        padding: 0 0px;
+        font-size: 11px;
+        width: 323px;
+        font-weight: bold;
+    }
+}

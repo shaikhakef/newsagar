@@ -1,0 +1,101 @@
+.navbar {
+    height: 75px;
+    background: rebeccapurple;
+    margin: 15px 75px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-top: 10px;
+}
+
+.navbar img {
+    width: 50px;
+    padding: 10px;
+}
+
+.fastsection {
+    height: 280px;
+}
+
+.main-box {
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+    width: 285px;
+}
+
+.left img {
+    height: 198px;
+    width: 285px;
+}
+
+.right {
+    width: 815px;
+}
+
+.secundsection {
+    height: 280px;
+}
+
+.main-div {
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-div {
+    width: 815px;
+}
+
+.right-div {
+    width: 285px;
+}
+
+.right-div img {
+    height: 198px;
+    width: 285px;
+}
+
+.text-center {
+    margin-left: 89px;
+}
+
+.thredsection {
+    height: 685px;
+    width: 600px;
+    display: flex;
+    margin-left: 89px;
+}
+
+.images {
+    width: 150px;
+}
+
+.images img {
+    width: 150px;
+}
+
+.content {
+    margin-left: 20px;
+    width: 437px;
+}
+
+.fast-content {
+    margin: 15px;
+}
+
+.img-1 {
+    margin-top: 10px;
+}
+
+.my {
+    margin-top: 75px;
+}

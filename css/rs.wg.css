@@ -1,0 +1,162 @@
+@media only screen and (max-width:710px) {
+    .fastsection {
+        height: 390px;
+        width: 599px;
+    }
+
+    .right {
+        position: absolute;
+        top: 305px;
+        left: 90px;
+        width: 440px;
+    }
+
+    #id1 {
+        position: absolute;
+        top: 1120px;
+        left: 90px;
+
+    }
+
+    .secundsection {
+        height: 410px;
+        width: 599px;
+    }
+
+    .left-div {
+        position: absolute;
+        top: 729px;
+        left: 55px;
+        width: 440px;
+    }
+
+    .thredsection {
+        margin-left: 0px;
+    }
+
+    .content {
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .fastsection {
+        width: 443px;
+    }
+
+    .secundsection {
+        width: 386px;
+    }
+
+    .content {
+        font-size: 14px;
+    }
+
+    .thredsection {
+        width: 448px;
+        height: 725px;
+    }
+
+    .right {
+        position: absolute;
+        top: 305px;
+        left: 57px;
+        width: 393px;
+        height: 196px;
+        padding: 4px;
+    }
+
+    .left-div {
+        position: absolute;
+        top: 729px;
+        left: 55px;
+        width: 386px;
+    }
+
+    #id1 {
+        position: absolute;
+        top: 1150px;
+        left: 57px;
+    }
+}
+
+@media only screen and (max-width:580px) {
+    .fastsection {
+        height: 460px;
+    }
+
+    .right {
+        position: absolute;
+        top: 305px;
+        left: 35px;
+        width: 295px;
+        height: 255px;
+    }
+
+    .secundsection {
+        height: 480px;
+    }
+
+    .left-div {
+        position: absolute;
+        top: 785px;
+        left: 55px;
+        width: 285px;
+    }
+
+    .fastsection {
+        width: 350px;
+    }
+
+    #id1 {
+        position: absolute;
+        top: 1298px;
+        left: 35px;
+    }
+
+    .thredsection {
+        height: 510px;
+        width: 335px;
+    }
+
+    .images {
+        width: 100px;
+    }
+
+    .images img {
+        width: 100px;
+    }
+
+    #tag1 {
+        font-size: 12px;
+        width: 225px;
+    }
+
+    #tag2 {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 225px;
+    }
+
+    #tag3 {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 225px;
+    }
+
+    #tag4 {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 225px;
+    }
+}
+
+hr {
+    height: 1px;
+    margin: 10px 80px;
+}
+
+body {
+    background: rebeccapurple;
+    color: white;
+}

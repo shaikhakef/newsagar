@@ -1,0 +1,66 @@
+.navbar {
+    height: 75px;
+    background: rebeccapurple;
+    margin: 15px 75px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-top: 10px;
+
+}
+
+.navbar img {
+    width: 50px;
+    padding: 10px;
+}
+.fastsection {
+    height: 1000px;
+    padding: 30px;
+}
+
+.fan-modul {
+    font-size: 2.1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.main-div {
+    height: 240px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.sub-div {
+    width: 290px;
+    margin: 35px;
+    height: 116px;
+    margin-top: 65px;
+    border-radius: 3px;
+}
+
+.sub-div img {
+    width: 290px;
+    padding: 0px 0px;
+}
+
+.information {
+    width: 810px;
+    margin-left: 50px;
+    margin: 33px;
+}
+
+.text-info {
+    height: 140px;
+    margin: 15px;
+    padding: 0 30px;
+}
+
+.imgs {
+    width: 20px;
+}

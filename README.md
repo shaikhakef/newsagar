@@ -1,2 +1,0 @@
-# newsagar
-newsagarelc
